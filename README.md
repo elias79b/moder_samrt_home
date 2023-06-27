@@ -1,4 +1,7 @@
-![Screenshot 2023-06-27 183253](https://github.com/elias79b/moder_samrt_home/assets/85472154/183b2de8-9ca7-49f3-8782-0615fbb552ff)
+![Screenshot 2023-06-27 183246](https://github.com/elias79b/moder_samrt_home/assets/85472154/b933fc9d-afc1-4bbe-9237-607815a51673)
+![Screenshot 2023-06-27 183253](https://github.com/elias79b/moder_samrt_home/assets/85472154/2ab91358-7aea-4f08-8559-55322b025633)
+![Screenshot 2023-06-27 183300](https://github.com/elias79b/moder_samrt_home/assets/85472154/a8c77a03-9351-424a-8205-01fd00af6251)
+
 # modern_smart_home
 
 A new Flutter project.
